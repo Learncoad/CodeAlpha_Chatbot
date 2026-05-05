@@ -25,7 +25,7 @@ def Response(userInput):
     
     #fallback
     else:
-        return "Soryy, I didn't understand that."
+        return "Sorry, I didn't understand that."
     
 def Chatbot():
     print("Chatbot: Hi! Type something (type 'bye' to 'exit')")
